@@ -1,5 +1,8 @@
 def first_steps
+<<<<<<< HEAD
   
+=======
+>>>>>>> efd2bc673011ca7432d40f6fee1385cc886dbcf7
   puts "Right foot back"
   sleep(0.5)
   puts "Left foot back"
@@ -8,7 +11,14 @@ def first_steps
   sleep(0.5)
   puts "Stop"
   sleep(1)
+<<<<<<< HEAD
 
+=======
+end
+end
+  # Write a loop that outputs "Right foot back", "Left foot back",
+  # "Right foot back", and "Stop", with sleep after each
+>>>>>>> efd2bc673011ca7432d40f6fee1385cc886dbcf7
 end
 
 first_steps
